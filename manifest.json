@@ -1,0 +1,9 @@
+{
+  "name": "Todo List",
+  "short_name": "Todo List",
+  "description": "Your todo list !",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#6897BB",
+  "background_color": "#ffffff"
+}
